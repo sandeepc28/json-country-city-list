@@ -4,7 +4,7 @@
         { "name": "United States", "cities": ["New York", "Los Angeles", "Chicago"] },
         { "name": "Canada", "cities": ["Toronto", "Vancouver", "Montreal"] },
         { "name": "UK", "cities": ["London", "Manchester", "Birmingham"] },
-        { "name": "Australia", "cities": ["Sydney", "Melbourne", "Brisbane"] }
+        { "name": "Australia", "cities": ["Sydney", "Melbourne", "Brisbane"] },
         { "name": "France", "cities": ["Paris", "Nice"] }
     ]
 }
